@@ -1,0 +1,28 @@
+_repo: The-Music-Master_66154
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wallace, F. L. (Floyd L.)
+    aliases:
+    - Wallace, Floyd L.
+    - Wallace, Floyd Lee
+    birthdate: 1915
+    deathdate: 2004
+    gutenberg_agent_id: '26832'
+    url: http://www.gutenberg.org/2009/agents/26832
+    wikipedia: http://en.wikipedia.org/wiki/F._L._Wallace
+description: ''
+gutenberg_issued: '2021-08-27'
+identifiers:
+  gutenberg: '66154'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Musicians -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- GITenberg
+title: The Music Master
+url: http://www.gutenberg.org/ebooks/66154
